@@ -2,7 +2,7 @@
 //  Artem_s_CardApp.swift
 //  Artem's Card
 //
-//  Created by  TVOYO on 17.04.2022.
+//  Created by  InGoodM on 17.04.2022.
 //
 
 import SwiftUI
